@@ -12,8 +12,8 @@ def perform_clicking_task():
     global clicking_process_active 
     while True:
         if clicking_process_active:
-            mouse_hardware_controller.click(Button.left, 1)
-            time.sleep(0.03)
+            mouse_hardware_controller.click(Button.right, 1)
+            time.sleep(0.2)
         else:
             time.sleep(0.1)
         
