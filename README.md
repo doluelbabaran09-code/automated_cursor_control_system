@@ -11,4 +11,4 @@ This project is a multi-threaded hardware automation tool designed for Minecraft
 ## Technical Specifications
 - **Toggle Key:** 'y'
 - **Action:** Mouse Button (Right/Left)
-- **Interval:** 0.2 seconds (5 CPS)
+- **Interval:** 0.1 seconds (18 CPS)
